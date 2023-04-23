@@ -93,7 +93,7 @@
 
   (footprint "kbd:M2_HOLE_v2" (layer "F.Cu")
     (tstamp 29212727-6063-42df-a024-90d8f189403e)
-    (at 147.6375 107.15625)
+    (at 147.6375 108.346875)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (attr exclude_from_pos_files exclude_from_bom)

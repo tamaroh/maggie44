@@ -93,7 +93,7 @@
 
   (footprint "kbd:M2_HOLE_v2" (layer "F.Cu")
     (tstamp 29212727-6063-42df-a024-90d8f189403e)
-    (at 147.6375 107.15625)
+    (at 147.6375 108.346875)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (attr exclude_from_pos_files exclude_from_bom)
@@ -150,18 +150,18 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a5e28ab7-01c9-4ec5-b779-eb1131b7f7fd)
+      (tstamp b11ac077-b13e-4778-af18-54308dca0022)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8dc3b580-8236-4e57-97cc-482b5901a62c)
+      (tstamp 9ae4f6af-c471-4a00-a37f-6a20f665cbb5)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 4.3 4.3) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp 93b589b2-e781-47ba-8b5e-0b445b5338ff))
+    (pad "" np_thru_hole circle (at 0 0) (size 4.3 4.3) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp 2b526154-68b1-477b-8496-718796578d08))
   )
 
   (footprint "kbd:M2_HOLE_v2" (layer "F.Cu")
     (tstamp 66e157fc-3336-494a-9167-10acae1d2767)
-    (at 38.1 64.29375)
+    (at 38.1 59.53125)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (attr exclude_from_pos_files exclude_from_bom)
@@ -195,19 +195,19 @@
 
   (footprint "kbd:M2_HOLE_v2" (layer "F.Cu")
     (tstamp bd321004-4ad9-4bc2-8b2b-d3f54c5de0d4)
-    (at 128.5875 107.15625)
+    (at 128.5875 108.346875)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp cc19f595-e5f0-4821-a317-76161cdae12d)
+      (tstamp b05dc2fe-248b-4fe5-a506-7cc7b7f5eb0a)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 71d74c8f-1ffb-42a5-8543-d85de4525ac9)
+      (tstamp 11086953-bbd5-432d-8db0-720362d9ebea)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 4.3 4.3) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp 676cfd8e-6d81-4932-857b-aed4805d9b03))
+    (pad "" np_thru_hole circle (at 0 0) (size 4.3 4.3) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp 9576cca9-33f0-431f-b9ce-930c077ae679))
   )
 
   (footprint "kbd:M2_HOLE_v2" (layer "F.Cu")
