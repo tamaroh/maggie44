@@ -91,7 +91,7 @@
 
   (net 0 "")
 
-  (footprint "kbd:M2_HOLE_v2" (layer "F.Cu")
+  (footprint "kbd:thread_m2" (layer "F.Cu")
     (tstamp 29212727-6063-42df-a024-90d8f189403e)
     (at 147.6375 108.346875)
     (descr "Mounting Hole 2.2mm, no annular, M2")
@@ -99,16 +99,16 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp cc19f595-e5f0-4821-a317-76161cdae12d)
+      (tstamp 394236da-364d-4202-a1d4-26f9e081a40b)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 71d74c8f-1ffb-42a5-8543-d85de4525ac9)
+      (tstamp 42f7cbc9-1402-4ad3-a1ad-045875ce37ad)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 4.3 4.3) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp 676cfd8e-6d81-4932-857b-aed4805d9b03))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 10e2f314-1e70-4541-82bf-870282ab4888))
   )
 
-  (footprint "kbd:M2_HOLE_v2" (layer "F.Cu")
+  (footprint "kbd:thread_m2" (layer "F.Cu")
     (tstamp 3f004744-8136-4169-a364-2d649d775b12)
     (at 147.6375 59.53125)
     (descr "Mounting Hole 2.2mm, no annular, M2")
@@ -116,13 +116,13 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a5e28ab7-01c9-4ec5-b779-eb1131b7f7fd)
+      (tstamp 0a7c12e3-414b-4d6f-8bed-8d4f9fe7d742)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8dc3b580-8236-4e57-97cc-482b5901a62c)
+      (tstamp 09f08fa5-8aa8-4c46-9f3c-7d80854f7dab)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 4.3 4.3) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp 93b589b2-e781-47ba-8b5e-0b445b5338ff))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp f4d53346-857c-4f09-a5b8-5e11ed829330))
   )
 
   (gr_line (start 173.974915 57.00545) (end 173.974915 43.00615)
