@@ -91,7 +91,7 @@
 
   (net 0 "")
 
-  (footprint "kbd:M2_HOLE_v2" (layer "F.Cu")
+  (footprint "kbd:thread_m2" (layer "F.Cu")
     (tstamp 29212727-6063-42df-a024-90d8f189403e)
     (at 147.6375 108.346875)
     (descr "Mounting Hole 2.2mm, no annular, M2")
@@ -99,16 +99,16 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp cc19f595-e5f0-4821-a317-76161cdae12d)
+      (tstamp ba8baa0b-6937-4a4b-8e1d-ed024754e1f7)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 71d74c8f-1ffb-42a5-8543-d85de4525ac9)
+      (tstamp 8ecf3a86-7ad3-4812-816c-4319849330c8)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 4.3 4.3) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp 676cfd8e-6d81-4932-857b-aed4805d9b03))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp f3956de7-89e4-4449-91da-e2936ee39b76))
   )
 
-  (footprint "kbd:M2_HOLE_v2" (layer "F.Cu")
+  (footprint "kbd:thread_m2" (layer "F.Cu")
     (tstamp 3b4d0487-7bd9-4645-b05e-15ff52d87b64)
     (at 76.2 45.24375)
     (descr "Mounting Hole 2.2mm, no annular, M2")
@@ -116,16 +116,16 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e2e20b16-6f01-47b1-9113-99952839b9af)
+      (tstamp ca308f92-4fe5-48bd-a151-597a5bc2a34f)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp d318dff7-5ca1-4bf1-b758-dcc6a94c6e77)
+      (tstamp 34faf9b9-bda3-40be-9479-32166997e4f8)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 4.3 4.3) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp 1e1df2b2-9b98-4b2f-be79-6d97e17bfd8d))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 0f82d8d2-935a-4e64-8f82-57cead9e8e2d))
   )
 
-  (footprint "kbd:M2_HOLE_v2" (layer "F.Cu")
+  (footprint "kbd:thread_m2" (layer "F.Cu")
     (tstamp 3f004744-8136-4169-a364-2d649d775b12)
     (at 147.6375 59.53125)
     (descr "Mounting Hole 2.2mm, no annular, M2")
@@ -133,16 +133,16 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a5e28ab7-01c9-4ec5-b779-eb1131b7f7fd)
+      (tstamp 37569fac-bebd-407a-a04e-51f1096a85bd)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8dc3b580-8236-4e57-97cc-482b5901a62c)
+      (tstamp 95d351d0-bf42-4060-ae5c-0d41ff0e0e9a)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 4.3 4.3) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp 93b589b2-e781-47ba-8b5e-0b445b5338ff))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp b6e703da-ef09-4980-9c80-9b601fe78ecf))
   )
 
-  (footprint "kbd:M2_HOLE_v2" (layer "F.Cu")
+  (footprint "kbd:thread_m2" (layer "F.Cu")
     (tstamp 408cbd18-13f4-4e5e-80fb-eb740aab3842)
     (at 128.5875 59.53125)
     (descr "Mounting Hole 2.2mm, no annular, M2")
@@ -150,16 +150,16 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b11ac077-b13e-4778-af18-54308dca0022)
+      (tstamp cb837d10-e657-4c32-8748-411d32c305b8)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9ae4f6af-c471-4a00-a37f-6a20f665cbb5)
+      (tstamp 863e7c5d-3473-4e08-889d-5805fa70b00d)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 4.3 4.3) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp 2b526154-68b1-477b-8496-718796578d08))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 8fb20c4b-45d7-4369-ba5f-17f319678e8f))
   )
 
-  (footprint "kbd:M2_HOLE_v2" (layer "F.Cu")
+  (footprint "kbd:thread_m2" (layer "F.Cu")
     (tstamp 66e157fc-3336-494a-9167-10acae1d2767)
     (at 38.1 59.53125)
     (descr "Mounting Hole 2.2mm, no annular, M2")
@@ -167,16 +167,16 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 3732f0d6-5d8d-4d09-ba43-4f58805be9d8)
+      (tstamp a4cfa803-3ffc-4c7c-aee6-cce6d98ae78a)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c2d1e164-91a2-4c5b-a1b9-436133763ecb)
+      (tstamp 9c558f8b-a547-4e15-adca-cf60807dd9bb)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 4.3 4.3) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp c57cb60f-60bc-47f1-b296-ed3f05b07f27))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 47738f76-96e4-407e-b4fa-dda8b6d95cf5))
   )
 
-  (footprint "kbd:M2_HOLE_v2" (layer "F.Cu")
+  (footprint "kbd:thread_m2" (layer "F.Cu")
     (tstamp b09ab558-095d-4723-bbe8-5de73a4d951c)
     (at 38.1 40.48125)
     (descr "Mounting Hole 2.2mm, no annular, M2")
@@ -184,16 +184,16 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ee622bf9-87a6-46e1-bccc-c9d6c9c6fe00)
+      (tstamp 35d5c2aa-b848-4a8b-9ed6-267e0efdd89a)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 80d3e803-4afd-4950-bd0a-0086ef7f1d16)
+      (tstamp 1f76f8c2-e11c-4efe-aecd-9d32674a42d3)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 4.3 4.3) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp 1496b426-de0f-4902-bdd9-9b392e007205))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 6f3f4da8-da36-4b72-92d5-5c90f48f9377))
   )
 
-  (footprint "kbd:M2_HOLE_v2" (layer "F.Cu")
+  (footprint "kbd:thread_m2" (layer "F.Cu")
     (tstamp bd321004-4ad9-4bc2-8b2b-d3f54c5de0d4)
     (at 128.5875 108.346875)
     (descr "Mounting Hole 2.2mm, no annular, M2")
@@ -201,16 +201,16 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b05dc2fe-248b-4fe5-a506-7cc7b7f5eb0a)
+      (tstamp 2a720b7c-680d-4805-a6ce-32bac8f5ff8d)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 11086953-bbd5-432d-8db0-720362d9ebea)
+      (tstamp 6d876fea-753e-4e27-95cb-d1842b90c3f6)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 4.3 4.3) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp 9576cca9-33f0-431f-b9ce-930c077ae679))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp dbde0a68-8b99-46ce-9855-dff68071165a))
   )
 
-  (footprint "kbd:M2_HOLE_v2" (layer "F.Cu")
+  (footprint "kbd:thread_m2" (layer "F.Cu")
     (tstamp d9e363cc-eefe-499d-86e2-410f45e3afa9)
     (at 76.2 83.34375)
     (descr "Mounting Hole 2.2mm, no annular, M2")
@@ -218,13 +218,13 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp fdc24cf2-2a9f-4495-a12e-7dc57a8d919c)
+      (tstamp 166937f8-b54e-4a01-9f42-ae03faaa9f80)
     )
     (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8a9b4bba-5fb7-45a5-8c83-9a4132d0592e)
+      (tstamp ae6aa10a-d6ac-4598-86ad-3c76b8d93602)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 4.3 4.3) (drill 4.3) (layers "*.Cu" "*.Mask") (tstamp f8adfa6d-9c42-4ffb-8ab6-3386cba63bb6))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 698d0354-3369-43e7-a391-823ba3a98170))
   )
 
   (gr_line (start 173.974915 57.00545) (end 173.974915 43.00615)
