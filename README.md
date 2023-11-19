@@ -80,7 +80,7 @@ https://github.com/tamaroh/maggie44/tree/main/firmware
 |maggie44_via.json|VIAでキーマップ設定時に使用してください|
 
 ソースコード
-https://github.com/tamaroh/qmk_firmware/tree/tamaroh/keyboards/maggie44/
+https://github.com/tamaroh/qmk_firmware/tree/tamaroh/keyboards/tamaroh/maggie44
 
 ## 注意事項
 - 非販売品につき、制作に関するサポートはいたしません。
